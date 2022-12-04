@@ -1,0 +1,29 @@
+{
+  "data": {
+    "author_id": "1596503549244215296",
+    "edit_history_tweet_ids": ["1599420775345577990"],
+    "id": "1599420775345577990",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "text": "@pratikautomated ohkk"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1596503549244215296",
+        "name": "Saksham",
+        "username": "saksham877"
+      },
+      {
+        "id": "1547584317744103424",
+        "name": "Pratik Deshpande",
+        "username": "pratikautomated"
+      }
+    ]
+  },
+  "matching_rules": [{ "id": "1599420712779124739", "tag": "" }]
+}
